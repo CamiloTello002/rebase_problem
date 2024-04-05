@@ -1,5 +1,5 @@
 function greetMom(name){
-  console.log('hello daddy, mr', name)
+  console.log('hello mommy, mr', name)
 }
 
 function greetDad(name){
