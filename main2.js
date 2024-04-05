@@ -3,7 +3,7 @@ function greetMom(name){
 }
 
 function greetDad(name){
-  console.log('hello uncle, mr', name)
+  console.log('hello daddy, mr', name)
 }
 
 greetMom('RoseMary')
